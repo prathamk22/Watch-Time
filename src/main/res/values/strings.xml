@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Watch Time</string>
+    <string name="enter_your_movie_name">Enter movie </string>
+    <string name="get_info">Get Movie Information</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="director">Director</string>
+    <string name="production">Production</string>
+    <string name="language">Language</string>
+    <string name="writer">Writers</string>
+    <string name="rating">Rating</string>
+    <string name="runtime">RunTime</string>
+    <string name="genre">Genre</string>
+    <string name="actors">Actors</string>
+    <string name="plot">Plot</string>
+    <string name="released">Released</string>
+    <string name="watch_time">WATCH TIME</string>
+</resources>
